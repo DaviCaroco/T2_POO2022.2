@@ -13,8 +13,8 @@ public class circulo {
 	}
 	public void calcAreac() {
 		areac = pi * (raio * raio);
-		System.out.println("A área do circulo é " + areac);
+		System.out.println("A Ã¡rea do circulo Ã© " + areac);
 		peri = 2 * raio * pi;
-		System.out.println("O perimetro do Losangulo é " + peri);
+		System.out.println("O perimetro do circulo Ã© " + peri);
 	}
 }

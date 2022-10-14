@@ -13,8 +13,8 @@ public class quadrado {
 	}
 	public void calcAreaq() {
 		areaq = lado * lado;
-		System.out.println("A área do quadrado é " + areaq);
+		System.out.println("A Ã¡rea do quadrado Ã© " + areaq);
 		peri = lado*4;
-		System.out.println("O Perimetro do Quadrado é " + peri);
+		System.out.println("O Perimetro do Quadrado Ã© " + peri);
 	}
 }

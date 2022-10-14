@@ -16,8 +16,8 @@ public class losango {
 	
 	public void calcAreaL() {
 		areaL = (diag1 * diag2) /2;
-		System.out.println("A area do Losangulo é " + areaL);
+		System.out.println("A area do Losangulo Ã© " + areaL);
 		peri = lado*4;
-		System.out.println("O Perimetro do losangulo é " + peri);
+		System.out.println("O Perimetro do losangulo Ã© " + peri);
 	}
 }

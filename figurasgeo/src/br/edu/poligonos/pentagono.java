@@ -12,10 +12,10 @@ public class pentagono {
 		areaP = 0;
 		peri = 0;
 	}
-	public void calcAreap() {
+	public void calcAreaP() {
 		areaP = 5*lado*apote;
-		System.out.println("A area do Pentagono é " + areaP);
+		System.out.println("A area do Pentagono Ã© " + areaP);
 		peri = lado*5;
-		System.out.println("O Perimetro do pentagono é " + peri);
+		System.out.println("O Perimetro do pentagono Ã© " + peri);
 	}
 }

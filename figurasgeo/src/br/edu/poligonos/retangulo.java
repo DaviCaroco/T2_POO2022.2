@@ -15,8 +15,8 @@ public class retangulo {
 	
 	public void calcArear() {
 		arear = base * altura;
-		System.out.println("A área do Retangulo ou do Paralelograma é " + arear);
+		System.out.println("A Ã¡rea do Retangulo ou do Paralelograma Ã© " + arear);
 		peri = 2 * (base + altura);
-		System.out.println("O perimetro do Retangulo ou do Paralelograma é " + peri);
+		System.out.println("O perimetro do Retangulo ou do Paralelograma Ã© " + peri);
 	}
 }

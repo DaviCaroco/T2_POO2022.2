@@ -16,9 +16,8 @@ public class hexagono {
 	public void calcAreahex() {
 		areaT = (base *altura) /2;
 		areaHex = areaT * 6;
-		System.out.println("A área do Hexagono é " + areaHex);
+		System.out.println("A Ã¡rea do Hexagono Ã© " + areaHex);
 		peri = lado*6;
-		System.out.println("O Perimetro do Hexagono é " + peri);
+		System.out.println("O Perimetro do Hexagono Ã© " + peri);
 	}
-	
 }
